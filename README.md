@@ -8,11 +8,23 @@ Ela contém a correlação de dados da fonte do *Global Observatory on Donation 
 
 Essa fonte foi criada no dia 14/11/2025.
 
+
 ## Pesquisadores
 
 Adriana Leticia dos Reis - ORCID [https://orcid.org/0009-0007-6617-263X](https://orcid.org/0009-0007-6617-263X)
 
 Romeo Bulla Junior - ORCID [https://orcid.org/0000-0001-6386-1500](https://orcid.org/0000-0001-6386-1500)
+
+
+## Código-Fonte Utilizado
+
+Para correlacionar as fonstes de dados de GODT e HDRO (IDH), foi utilizado o notebook *python* [Projeto v9 - Agrupamento Hierárquico.ipynb](Projeto v9 - Agrupamento Hierárquico.ipynb) executado no ambiente do Google Colab.
+
+A versão de python utilizada foi a 3.12.12 com as as versões de bibliotecas indicadas no arquivo [requirements.txt](requirements.txt)
+
+Os nomes dos arquivos das fontes de GODT e HDRO referenciadas são, respectivamente: ``GODT_downloads.xlsx`` e ``HDR25_Statistical_Annex_Tables_1-7.xlsx`` (planilha 'Table 2. HDI trends').
+
+
 
 ## Dicionário de Dados
 
