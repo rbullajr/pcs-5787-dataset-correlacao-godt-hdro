@@ -2,11 +2,17 @@
 
 ## Descrição
 
-A fonte de dados contida nesse repositório (df_transplants.csv)[df_transplants.csv] é um arquivo do tipo CSV que utiliza como separador de campos o caractere ';' (ponto e vírgula).
+A fonte de dados contida nesse repositório [df_transplants.csv](df_transplants.csv) é um arquivo do tipo CSV que utiliza como separador de campos o caractere ';' (ponto e vírgula).
 
 Ela contém a correlação de dados da fonte do *Global Observatory on Donation and Transplantation* (GODT) e da fonte de dados do *Human Development Report Office* (HDRO).
 
 Essa fonte foi criada no dia 14/11/2025.
+
+## Pesquisadores
+
+Adriana Leticia dos Reis - ORCID [https://orcid.org/0009-0007-6617-263X](https://orcid.org/0009-0007-6617-263X)
+
+Romeo Bulla Junior - ORCID [https://orcid.org/0000-0001-6386-1500](https://orcid.org/0000-0001-6386-1500)
 
 ## Dicionário de Dados
 
